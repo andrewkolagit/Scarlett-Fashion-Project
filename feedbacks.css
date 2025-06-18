@@ -1,0 +1,191 @@
+.box1 {
+  background-image: linear-gradient(to bottom, rgba(92, 1, 1,1), rgba(148, 7, 7,1));
+  height: 140px;
+}
+.login {
+  position: absolute;
+  left: 85.5%;
+  top: 5.7%;
+  padding: 13px;
+  text-transform: uppercase;
+  background-color: red;
+  border: 2px solid black;
+  color: black;
+  font-family: roboto condensed, sans-serif;
+  font-weight: 900;
+  font-size: 15px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+.login:hover {
+  background-color: white;
+}
+.signup {
+  position: absolute;
+  left: 90%;
+  top: 5.7%;
+  padding: 13px;
+  text-transform: uppercase;
+  background-color: red;
+  border: 2px solid black;
+  color: black;
+  font-family: roboto condensed, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+.signup:hover {
+  background-color: white;
+}
+.logo {
+  position: absolute;
+  left: 38.8%;
+  top: 2.5%;
+}
+.subbox {
+  border: 1px solid transparent;
+  background-color: whitesmoke;
+  height: 58px;
+}
+ol {
+  float: left;
+}
+ol li {
+  float: left;
+  width: 190px;
+  position: relative;
+  left: 28.5%;
+  list-style-type: none;
+  font-family: roboto condensed, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: #942B15;
+}
+ol li a {
+  text-decoration: none;
+}
+ol li a:hover {
+  border-bottom: 2px solid #942B15;
+}
+.fa-search {
+  position: absolute;
+  left: 83%;
+  top: 1.5%;
+  color: white;
+  cursor: pointer;
+}
+.fa-search:hover {
+  color: #942B15;
+}
+.fa-user {
+  position: absolute;
+  left: 86%;
+  top: 1.5%;
+  color: white;
+  cursor: pointer;
+}
+.fa-user:hover {
+  color: #942B15;
+}
+.fa-shopping-bag {
+  position: absolute;
+  left: 89%;
+  top: 1.5%;
+  color: white;
+  width: 25px;
+  height: -30px;
+  border-radius: 100px;
+  margin-top: -2px;
+  margin-left: -4px;
+  text-align: center;
+  cursor: pointer;
+}
+.fa-shopping-bag:hover {
+  color: #942B15;
+}
+.fa-heart {
+  position: absolute;
+  left: 92%;
+  top: 1.5%;
+  color: white;
+  cursor: pointer;
+}
+.fa-heart:hover {
+  color: #942B15;
+}
+font {
+  color: #942B15;
+}
+.head {
+  text-transform: uppercase;
+  color: #942B15;
+  position: absolute;
+  font-size: 40px;
+  left: 36.6%;
+  top: 20%;
+  font-family: roboto condensed, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+input[type=text], textarea {
+    height: 100%;
+    width: 100%;
+    border:2px solid #aaa;
+    border-radius:4px;
+    margin:8px 0;
+    outline:none;
+    padding:8px;
+    box-sizing:border-box;
+    transition:.01s;
+}
+.name {
+    position: absolute;
+    top: 71%;
+    left: 25%;
+    height: 5%;
+    width: 50%;
+}
+.num {
+    position: absolute;
+    top: 78%;
+    left: 25%;
+    height: 5%;
+    width: 50%;
+}
+.tarea {
+    position: absolute;
+    top: 41%;
+    left: 25%;
+    height: 28%;
+    width: 50%;
+}
+.send {
+  position: absolute;
+  left: 46.5%;
+  top: 89.7%;
+  padding: 10px;
+  text-transform: uppercase;
+  background-color: #942B15;
+  border: none;
+  color: white;
+  font-family: roboto condensed, sans-serif;
+  font-weight: 900;
+  font-size: 25px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+.send:hover {
+  background-color: black;
+}
+.box2 {
+  position: absolute;
+  top: 110%;
+  background-image: linear-gradient(to bottom, rgba(92, 1, 1,1), rgba(148, 7, 7,1));
+  height: 140px;
+  width: 99%;
+}
+a {
+  color: #942B15;
+  text-decoration: none;
+}

@@ -1,0 +1,346 @@
+.box1 {
+  background-image: linear-gradient(to bottom, rgba(92, 1, 1,1), rgba(148, 7, 7,1));
+  height: 140px;
+}
+.login {
+  position: absolute;
+  left: 85.5%;
+  top: 5.7%;
+  padding: 13px;
+  text-transform: uppercase;
+  background-color: red;
+  border: 2px solid black;
+  color: black;
+  font-family: roboto condensed, sans-serif;
+  font-weight: 900;
+  font-size: 15px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+.login:hover {
+  background-color: white;
+}
+.signup {
+  position: absolute;
+  left: 90%;
+  top: 5.7%;
+  padding: 13px;
+  text-transform: uppercase;
+  background-color: red;
+  border: 2px solid black;
+  color: black;
+  font-family: roboto condensed, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+.signup:hover {
+  background-color: white;
+}
+.logo {
+  position: absolute;
+  left: 38.8%;
+  top: 2.5%;
+}
+.subbox {
+  border: 1px solid transparent;
+  background-color: whitesmoke;
+  height: 58px;
+}
+ol {
+  float: left;
+}
+ol li {
+  float: left;
+  width: 190px;
+  position: relative;
+  left: 28.5%;
+  list-style-type: none;
+  font-family: roboto condensed, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: #942B15;
+}
+ol li a {
+  text-decoration: none;
+}
+ol li a:hover {
+  border-bottom: 2px solid #942B15;
+}/*
+.fa-search {
+  position: absolute;
+  left: 83%;
+  top: 1.5%;
+  color: white;
+  cursor: pointer;
+}
+.fa-search:hover {
+  color: #942B15;
+}
+.fa-user {
+  position: absolute;
+  left: 86%;
+  top: 1.5%;
+  color: white;
+  cursor: pointer;
+}
+.fa-user:hover {
+  color: #942B15;
+}
+.fa-shopping-bag {
+  position: absolute;
+  left: 89%;
+  top: 1.5%;
+  color: white;
+  width: 25px;
+  height: -30px;
+  border-radius: 100px;
+  margin-top: -2px;
+  margin-left: -4px;
+  text-align: center;
+  cursor: pointer;
+}
+.fa-shopping-bag:hover {
+  color: #942B15;
+}
+.fa-heart {
+  position: absolute;
+  left: 92%;
+  top: 1.5%;
+  color: white;
+  cursor: pointer;
+}
+.fa-heart:hover {
+  color: #942B15;
+}*/
+font {
+  color: #942B15;
+}
+.head {
+  text-transform: uppercase;
+  color: #942B15;
+  position: absolute;
+  font-size: 40px;
+  left: 34.6%;
+  top: 20%;
+  font-family: roboto condensed, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+t {
+  color: #942B15;
+  position: absolute;
+  left: 13%;
+  top: 40%;
+  width: 470px;
+  font-size: 30px;
+  font-family: roboto condensed, sans-serif;
+  font-weight: bold;
+}
+t1 {
+  color: black;
+  font-family: roboto condensed, sans-serif;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 22px;
+}
+input[type=text], textarea {
+    height: 100%;
+    width: 100%;
+    border:2px solid #aaa;
+    border-radius:4px;
+    margin:8px 0;
+    outline:none;
+    padding:8px;
+    box-sizing:border-box;
+    transition:.01s;
+}
+.op1{
+  position: absolute;
+  left: 18%;
+  top: 40%;
+}
+.op2{
+  position: absolute;
+  left: 18%;
+  top: 73%;
+}
+.op3{
+  position: absolute;
+  left: 18%;
+  top: 95%;
+}
+input[type=file] {
+  position: absolute;
+  left: 18%;
+  top: 46%;
+  padding: 13px;
+  text-transform: uppercase;
+  background-color: red;
+  border: 2px solid black;
+  color: black;
+  font-family: roboto condensed, sans-serif;
+  font-weight: 900;
+  font-size: 15px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+.check1a {
+	position: absolute;
+	top: 45%;
+	left: 18%;
+}
+.check1b {
+	position: absolute;
+	top: 45%;
+	left: 31%;
+}
+.check2a {
+	position: absolute;
+	top: 78%;
+	left: 18%;
+}
+.check2b {
+	position: absolute;
+	top: 78%;
+	left: 31%;
+}
+.check3 {
+	position: absolute;
+	top: 100%;
+	left: 18%;
+}
+.size{
+  position: absolute;
+  left: 18%;
+  top: 112%;
+}
+.neck {
+    position: absolute;
+    top: 116%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.arms {
+    position: absolute;
+    top: 123%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.shoulder {
+    position: absolute;
+    top: 130%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.chest {
+    position: absolute;
+    top: 137%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.wrist {
+    position: absolute;
+    top: 144%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.waist {
+    position: absolute;
+    top: 151%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.ankle {
+    position: absolute;
+    top: 158%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.thighs {
+    position: absolute;
+    top: 165%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.legs {
+    position: absolute;
+    top: 172%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.name{
+  position: absolute;
+  left: 18%;
+  top: 183%;
+}
+.nam {
+    position: absolute;
+    top: 187%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.pno{
+  position: absolute;
+  left: 18%;
+  top: 197%;
+}
+.num {
+    position: absolute;
+    top: 201%;
+    left: 18%;
+    height: 5%;
+    width: 50%;
+}
+.addr{
+  position: absolute;
+  left: 18%;
+  top: 211%;
+}
+.tarea {
+    position: absolute;
+    top: 215%;
+    left: 18%;
+    height: 28%;
+    width: 50%;
+}
+.send {
+  position: absolute;
+  left: 18%;
+  top: 250.7%;
+  padding: 10px;
+  text-transform: uppercase;
+  background-color: #942B15;
+  border: none;
+  color: white;
+  font-family: roboto condensed, sans-serif;
+  font-weight: 900;
+  font-size: 25px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+.send:hover {
+  background-color: black;
+}
+.box2{
+  position: absolute;
+  top: 270%;
+  background-image: linear-gradient(to bottom, rgba(92, 1, 1,1), rgba(148, 7, 7,1));
+  height: 140px;
+  width: 99.1%;
+}
+a {
+  color: #942B15;
+  text-decoration: none;
+}
