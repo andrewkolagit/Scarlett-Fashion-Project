@@ -1,0 +1,50 @@
+{
+  "mens": {
+    "m1": {
+      "name": "Men Black Smart Slim Fit Solid Formal Trousers",
+      "image": "../All Photos/men/Men Black Smart Slim Fit Solid Formal Trousers.jpg",
+      "price": 100
+    },
+    "m2": {
+      "name": "Men Black Solid Bomber Jacket",
+      "image": "../All Photos/men/Men Black Solid Bomber Jacket.jpg",
+      "price": 100
+    }
+  },
+  "womens": {
+    "w1": {
+      "name": "Black Animal Print Long Skirt",
+      "image": "../All Photos/women/BLACK ANIMAL PRINT LONG SKIRT.jpg",
+      "price": 100
+    },
+    "w2": {
+      "name": "Sample Women's Product",
+      "image": "../All Photos/women/sample.jpg",
+      "price": 100
+    }
+  },
+  "boys": {
+    "b1": {
+      "name": "Blue 64 Zip-Through Hoodie And Stripe Joggers Set",
+      "image": "../All Photos/boys/Blue 64 Zip-Through Hoodie And Stripe Joggers Set.jpg",
+      "price": 100
+    },
+    "b2": {
+      "name": "Sample Boy Product",
+      "image": "../All Photos/boys/sample.jpg",
+      "price": 100
+    }
+  },
+  "girls": {
+    "g1": {
+      "name": "Black Stripe Twofer Dress",
+      "image": "../All Photos/girls/Black Stripe Twofer Dress.jpg",
+      "price": 100
+    },
+    "g2": {
+      "name": "Sample Girl Product",
+      "image": "../All Photos/girls/sample.jpg",
+      "price": 100
+    }
+  }
+}
